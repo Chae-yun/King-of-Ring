@@ -18,7 +18,6 @@ public class SplashActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
 
-        //3초동안 지연시키고 있다가 지나면 스레드 안의 런 메서드를 실행시키자
         Handler handler=new Handler(){
             @Override
             public void handleMessage(Message msg) {
