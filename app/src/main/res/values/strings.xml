@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">반지의 제왕</string>
+    <string name="tab_01">사이즈 재기</string>
+    <string name="tab_02">손가락 의미</string>
+    <string name="tab_03">탄생석 의미</string>
+    <string name="tab_04">반지 보관법</string>
 </resources>
