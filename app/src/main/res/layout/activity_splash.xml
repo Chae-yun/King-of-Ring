@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context="kr.hs.emirim.ycy6685.kingofring.SplashActivity">
+
+    <ImageView
+        android:id="@+id/fullscreen_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:src="@drawable/splash"
+        android:adjustViewBounds="true" />
+    <!--원래 이미지뷰라는 클래스-->
+
+</LinearLayout> <!--원래 요소 위에 요소를 놓기 위해서 이용하는 것-->
